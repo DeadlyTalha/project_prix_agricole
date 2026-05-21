@@ -1,0 +1,9 @@
+# Ignorer les fichiers temporaires
+*.pyc
+__pycache__/
+
+# Ignorer un fichier spécifique
+script/Partie_A.py
+
+# Ignorer tous les CSV si tu veux (mais tu veux garder ton CSV, donc ne mets pas ça)
+# *.csv
